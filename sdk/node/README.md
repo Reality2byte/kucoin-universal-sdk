@@ -8,7 +8,7 @@ For an overview of the project and SDKs in other languages, refer to the [Main R
 
 ## 📦 Installation
 
-### Latest Version: `1.3.0`
+### Latest Version: `1.3.1`
 Install the SDK using `npm`:
 
 ```bash
