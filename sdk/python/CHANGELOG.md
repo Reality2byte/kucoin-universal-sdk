@@ -4,6 +4,9 @@ API documentation [Changelog](https://www.kucoin.com/docs-new/change-log)
 
 Current synchronized API documentation version [20250529](https://www.kucoin.com/docs-new/change-log#20250529)
 
+## 2026-05-29(1.3.1)
+- Modify broker signature parameters
+
 ## 2025-06-11(1.3.0)
 - Update the latest APIs, documentation, etc
 - Introduced a new testing framework for all SDKs

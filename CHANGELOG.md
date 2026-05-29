@@ -4,6 +4,9 @@ API documentation [Changelog](https://www.kucoin.com/docs-new/change-log)
 
 Current synchronized API documentation version [20250529](https://www.kucoin.com/docs-new/change-log#20250529)
 
+## 2026-05-29(Go Python Node 1.3.1)
+- Modify broker signature parameters
+
 ## 2025-07-30(Java 0.1.0-alpha)
 - Release Java implementation
 

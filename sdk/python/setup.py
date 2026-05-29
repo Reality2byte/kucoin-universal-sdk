@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="kucoin-universal-sdk",
-    version="1.3.0",
+    version="1.3.1",
     description="Official KuCoin Universal SDK",
     author="KuCoin",
     author_email="api@kucoin.com",
